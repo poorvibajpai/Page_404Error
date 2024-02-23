@@ -1,3 +1,4 @@
+<h1>404 Error Page Customized</h1>
 <h2>Page Should Be Only Run In Server</h2>
 <ul>
   <li>Here we want to find a .htaccess file in root folder</li>
